@@ -22,9 +22,9 @@ DESCRIBING MY PROJECT HERE. [My Source](https://data.cityofchicago.org/Public-Sa
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_2.json" style="width: 100%"></vegachart>
 
-## AT LEAST 2 CONTEXTUAL VIZ HERE
-
-![Champaign_Viz](/assets/pngs/ChampPic.png)
+# CHAMPAIGN AND CHICAGO CRIMES PER SQUARE MILE
+![Champaign_and_Chicago_Viz](/assets/pngs/ComboPic.png)
+[Champaign Source](https://www.neighborhoodscout.com/il/champaign/crime) and [Chicago Source](https://www.neighborhoodscout.com/il/chicago/crime).
 
 # CONNECTIVE INFORMATION (3 PARAGRAPGHS)
 
