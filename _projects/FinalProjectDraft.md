@@ -18,9 +18,9 @@ DESCRIBING MY PROJECT HERE. [My Source](https://data.cityofchicago.org/Public-Sa
 
 # CENTRAL INTERACTIVE VIZ (EXTRA CREDIT ADD ANOTHER OR TWO)
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_2.json" style="width: 100%"></vegachart>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_2.json" style="width: 100%"></vegachart> 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_2.json" style="width: 100%"></vegachart>
 
 ## AT LEAST 2 CONTEXTUAL VIZ HERE
 
