@@ -11,14 +11,18 @@ custom_js:
 ---
 
 
-# CREATIVE TITLE HERE
-# BY MEEEEE
+# CHICAGO CRIME 2022
+## BY Lisa Zenku
 
-DESCRIBING MY PROJECT HERE. [My Python Notebook](https://github.com/lzenku2/lzenku2.github.io/blob/main/Zenku-Lisa-HW10.ipynb).
+DESCRIBING MY PROJECT HERE. [My Source](https://data.cityofchicago.org/Public-Safety/City-of-Chicago-Crime-Data/v9q9-3dm2).
 
 # CENTRAL INTERACTIVE VIZ (EXTRA CREDIT ADD ANOTHER OR TWO)
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_1.json" style="width: 100%"></vegachart>
+
+# <vegachart schema-url="{{ site.baseurl }}/assets/json/
+
+# .json" style="width: 100%"></vegachart> 
 
 ## AT LEAST 2 CONTEXTUAL VIZ HERE
 
