@@ -30,7 +30,7 @@ The graph above shows the different Primary Type crimes that have or have not en
 
 The graph above shows the number of the top 10 most common primary type crimes per month in the year 2022. Each bar is divided into 11 different colors that represent the top 10 primary types and another color for the rest of the primary types. To be able to use this graph interactively, hover over the colored section of a bar on the graph that you want to learn more about and it will tell you the Primary Type, the count of recorded incidents, and the percentage of those crimes that end in arrest. For example, if you were to hover over the dark blue section in October, then you would see that the type of crime is assault, 1,835 occurrences of assault, and a percentage of 8.61% of those crimes led to an arrest. 
 
-# CONTEXTUAL VISUALIZATION
+# CONTEXTUAL VISUALIZATIONS
 
 ![Champaign_and_Chicago_Viz](/assets/pngs/ComboPic.png)
 [Champaign Source](https://www.neighborhoodscout.com/il/champaign/crime) and [Chicago Source](https://www.neighborhoodscout.com/il/chicago/crime)
