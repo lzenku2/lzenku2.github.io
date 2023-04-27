@@ -14,7 +14,9 @@ custom_js:
 # 2022 Crime in The Windy City: Understanding the Data 
 ## By Lisa Zenku
 
-## [My Python Notebook](https://github.com/lzenku2/lzenku2.github.io/blob/main/Zenku-Lisa-FinalProjectPart3.1.ipynb)
+## [Python Notebook](https://github.com/lzenku2/lzenku2.github.io/blob/main/Zenku-Lisa-FinalProjectPart3.1.ipynb)
+
+## [GitHub Repository](https://github.com/lzenku2/lzenku2.github.io)
 
 # Plot 1
 ## Dashboard of Arrests in Each Primary Type Crime and the Grouped Districts
