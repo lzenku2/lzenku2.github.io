@@ -14,6 +14,8 @@ custom_js:
 # 2022 Crime in The Windy City: Understanding the Data 
 ## BY Lisa Zenku
 
+## [My Python Notebook](https://github.com/lzenku2/lzenku2.github.io/blob/main/Zenku-Lisa-FinalProjectPart3.1.ipynb)
+
 # PLOT 1
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_1.json" style="width: 100%"></vegachart>
